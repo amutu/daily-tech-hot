@@ -9,6 +9,7 @@
 
 ## lobsters hot: 
 
+[lobsters hot 2026-04-12](lobsters-hot/lobsters-2026-04-12.md)  
 [lobsters hot 2026-04-11](lobsters-hot/lobsters-2026-04-11.md)  
 [lobsters hot 2026-04-10](lobsters-hot/lobsters-2026-04-10.md)  
 [lobsters hot 2026-04-09](lobsters-hot/lobsters-2026-04-09.md)  
