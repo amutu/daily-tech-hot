@@ -8,3 +8,6 @@ echo "" >> ./README.md
 paste -d '\0' /tmp/title.txt /tmp/url.txt | sed 's/$/  /g' >> ./README.md
 
 ./gen_lobsters.sh
+
+git commit -a -m 'update README'
+git push
