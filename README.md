@@ -1,19 +1,19 @@
 # github hot: 
 
+[github top hot 2026-09-10](github-top15/github-top15-2026-09-10.md)  
 [github top hot 2026-09-09](github-top15/github-top15-2026-09-09.md)  
 [github top hot 2026-09-08](github-top15/github-top15-2026-09-08.md)  
 [github top hot 2026-09-07](github-top15/github-top15-2026-09-07.md)  
 [github top hot 2026-09-06](github-top15/github-top15-2026-09-06.md)  
 [github top hot 2026-09-05](github-top15/github-top15-2026-09-05.md)  
 [github top hot 2026-09-04](github-top15/github-top15-2026-09-04.md)  
-[github top hot 2026-09-03](github-top15/github-top15-2026-09-03.md)  
 
 ## lobsters hot: 
 
+[lobsters hot 2026-09-15](lobsters-hot/lobsters-2026-09-15.md)  
 [lobsters hot 2026-09-14](lobsters-hot/lobsters-2026-09-14.md)  
 [lobsters hot 2026-09-13](lobsters-hot/lobsters-2026-09-13.md)  
 [lobsters hot 2026-09-12](lobsters-hot/lobsters-2026-09-12.md)  
 [lobsters hot 2026-09-11](lobsters-hot/lobsters-2026-09-11.md)  
 [lobsters hot 2026-09-10](lobsters-hot/lobsters-2026-09-10.md)  
 [lobsters hot 2026-09-09](lobsters-hot/lobsters-2026-09-09.md)  
-[lobsters hot 2026-09-08](lobsters-hot/lobsters-2026-09-08.md)  
